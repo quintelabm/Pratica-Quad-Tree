@@ -9,7 +9,7 @@ Considere:
 
 ## Tarefas:
 
-1 - Crie uma Classe ou estrutura ``QuadTreeNode´´ para representar os nós da árvore;
+1 - Crie uma Classe ou estrutura ``QuadTreeNode`` para representar os nós da árvore;
 
 2 - Crie uma Classe _QuadTree_ para representar a árvore;
 
