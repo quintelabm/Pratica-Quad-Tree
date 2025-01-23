@@ -9,9 +9,9 @@ Considere:
 
 ## Tarefas:
 
-1 - Crie uma Classe ou estrutura '''QuadTreeNode''' para representar os nós da árvore;
+1 - Crie uma Classe ou estrutura _QuadTreeNode_ para representar os nós da árvore;
 
-2 - Crie uma Classe '''QuadTree''' para representar a árvore;
+2 - Crie uma Classe _QuadTree_ para representar a árvore;
 
 3 - Crie uma função para visualizar os pontos armazenados em cada nó;
 
@@ -32,7 +32,7 @@ Teste se a inserção dos pontos está correta.
 Use a QuadTree para localizar rapidamente pontos dentro de uma região fornecida.
 Considere que a região será definida por um retângulo (x_min, y_min) a (x_max, y_max).
 
-1 - Implemente uma função '''buscar_regiao(x_min, x_max, y_min, y_max)''' que dado os limites da regiao retorna os pontos contidos na região especificada;
+1 - Implemente uma função _buscar_regiao(x_min, x_max, y_min, y_max)_ que dado os limites da regiao retorna os pontos contidos na região especificada;
 
 Obs: Utilize a propriedade hierárquica da QuadTree para evitar verificar nós irrelevantes;
 
