@@ -7,7 +7,7 @@ Considere:
 * cada nó da árvore possui duas coordenadas (X e Y)
 * e pode ter no máximo 4 filhos: NE (nordeste), NW (noroeste), SW (sudoeste) e SE (sudeste)
 
-## Tarefas:
+## Implementação:
 
 1 - Crie uma Classe ou estrutura `QuadTreeNode` para representar os nós da árvore;
 
@@ -15,7 +15,7 @@ Considere:
 
 3 - Crie uma função para visualizar os pontos armazenados em cada nó;
 
-4 - Crie uma rotina para inserção na árvore 
+4 - Crie uma rotina para inserção na árvore; 
 
 ## Primeiro Teste:
 
